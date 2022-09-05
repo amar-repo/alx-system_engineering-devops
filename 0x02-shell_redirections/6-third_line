@@ -1,2 +1,2 @@
 #!/bin/bash
-cat iact | head -3 | tail -1 
+head -n 3 iact | tail -1 
